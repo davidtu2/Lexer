@@ -20,7 +20,7 @@ int main()
 		NewLA.lexer();
 	}
 	else {
-		cout << "ERROR: Cannot open the file" << endl;
+		cout << "ERROR: Cannot open the file!!!" << endl;
 		exit(1);
 	}
 
